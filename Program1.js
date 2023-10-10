@@ -1,4 +1,5 @@
 //Convert all strings first alphabets to uppercase
+
 let classget = document.querySelector('.class1 ul');
 classget.innerHTML = '';
 let classarr = ['karachi', 'lAhore', 'islAMAbad', 'PeshawaR'];
@@ -12,3 +13,5 @@ for(let i = 0; i < classarr.length; i++){
     classget.appendChild(listitem);
     
 }
+
+
