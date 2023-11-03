@@ -1,0 +1,23 @@
+{
+  "name": "01-hello-world-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Program1.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirajahmed535/Javascript-Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirajahmed535/Javascript-Projects/issues"
+  },
+  "homepage": "https://github.com/sirajahmed535/Javascript-Projects#readme",
+  "dependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
